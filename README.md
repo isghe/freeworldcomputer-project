@@ -56,7 +56,7 @@ To begin, we need volunteers to take over bringing over existing clients and beg
 
 We need more than software developers, we need writers, artists and anyone who wants to contribute to rebuilding a foundation without any dependencies on any investors. 
 
-### Go lanuage client
+### Go language client
 
 Seed, I have started the fork, I will contribute more when time permits. Anyone is welcome to assist.
 
